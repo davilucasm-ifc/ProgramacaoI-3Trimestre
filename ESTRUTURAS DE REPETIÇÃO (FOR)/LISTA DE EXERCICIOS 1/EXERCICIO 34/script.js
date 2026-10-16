@@ -1,0 +1,1 @@
+let numero = parseInt(prompt("Insira um número inteiro positivo:"))
