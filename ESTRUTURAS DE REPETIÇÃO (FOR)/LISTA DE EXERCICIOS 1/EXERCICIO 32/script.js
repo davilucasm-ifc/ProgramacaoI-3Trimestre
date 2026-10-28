@@ -1,3 +1,4 @@
 for (let i = 10; i >= 1; i--) {
   console.log(i);
-} console.log("Operação iniciada!")
+}
+console.log("Operação iniciada!")
